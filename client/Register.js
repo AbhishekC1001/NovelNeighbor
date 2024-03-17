@@ -4,7 +4,7 @@ import React from 'react'
 const Register = () => {
   return (
     <View>
-      <Text>Register here again trail 4</Text>
+      <Text>Register here again trail 5</Text>
     </View>
   )
 }
